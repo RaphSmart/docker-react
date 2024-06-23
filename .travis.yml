@@ -9,4 +9,3 @@ script:
   - docker run -e CI=true raphsmart/docker-react npm run test
 
 
-
